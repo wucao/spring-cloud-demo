@@ -4,3 +4,6 @@
 - [Ribbon](/ribbon-service)
 - [Feign](/feign-service)
 - [Hystrix with Feign](/hystrix-feign)
+- [Zuul](/zuul-service)
+- [Spring Cloud Config Server](/config-server)
+- [Spring Cloud Config Client](/config-client)
