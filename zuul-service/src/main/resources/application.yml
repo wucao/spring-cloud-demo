@@ -9,9 +9,3 @@ server:
 spring:
   application:
     name: zuul-service
-
-zuul:
-  routes:
-    hello-service:
-      path: /hello-service/**
-      serviceId: hello-service
