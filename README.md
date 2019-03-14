@@ -7,3 +7,4 @@
 - [Zuul](/zuul-service)
 - [Spring Cloud Config Server](/config-server)
 - [Spring Cloud Config Client](/config-client)
+- [Spring Cloud Sleuth with Zipkin](/sleuth-zipkin)
